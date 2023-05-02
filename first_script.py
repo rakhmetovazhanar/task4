@@ -12,6 +12,6 @@ def test_my():
     
  @pytest.mark.slow
 def test_my_zh():
-    number2 = 1000
-    assert 999+1 == number2   
+    number2 = 1111
+    assert 1110 + 1 == number2   
     
